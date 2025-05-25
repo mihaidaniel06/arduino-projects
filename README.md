@@ -36,7 +36,7 @@ Codul poate fi găsit în fișierul `semafor.ino`.
 | Galben B   | 9           |
 | Roșu B     | 10          |
 | Buzzer     | 7           |
-| Buton      | 2 (cu rezistență de pull-down) |
+| Buton      | 2           |
 
 ## 📸 Galerie
 
